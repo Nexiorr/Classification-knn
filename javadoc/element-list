@@ -1,0 +1,6 @@
+module:point
+fr.univlille.iut.s302.point
+fr.univlille.iut.s302.point.controleur
+fr.univlille.iut.s302.point.modele
+fr.univlille.iut.s302.point.vue
+fr.univlille.iut.s302.utils

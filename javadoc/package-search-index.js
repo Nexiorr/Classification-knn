@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"point","l":"fr.univlille.iut.s302.point"},{"m":"point","l":"fr.univlille.iut.s302.point.controleur"},{"m":"point","l":"fr.univlille.iut.s302.point.modele"},{"m":"point","l":"fr.univlille.iut.s302.point.vue"},{"m":"point","l":"fr.univlille.iut.s302.utils"}];updateSearchResults();
